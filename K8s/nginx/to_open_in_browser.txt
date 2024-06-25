@@ -1,0 +1,1 @@
+Open your browser and navigate to http://<EC2_PUBLIC_IP>:30001
